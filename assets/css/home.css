@@ -1,0 +1,521 @@
+
+/* firstnavbar start */
+
+.korporativ{
+    color: red;
+}
+
+
+.firstnavbar{
+    margin-bottom: 30px;
+}
+.liststyle{
+
+    margin-right: 25px;
+  text-decoration: none;
+    list-style: none;
+   margin-right: 150px;
+ 
+}
+
+.ahref{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+
+.lest{
+    margin-right: 50px;
+}
+
+.li{
+    margin-right: 25px;
+    list-style: none;
+}
+
+.flagaze{
+    width: 30px;
+    height: 30px;
+}
+
+.green{
+   color: #209D43;
+}
+
+/* firstnavbar end */
+
+
+
+.advert{
+    background: gray;
+}
+
+
+
+
+
+
+
+
+
+/* secondnavbar start */
+
+
+.secondnavbar{
+    position: relative;
+    bottom: 20px;
+}
+
+
+.logowidth{
+    width: 180px;
+    height: 100px;
+}
+
+.menu{
+    margin-top: 30px;
+}
+
+.menuwidth{
+    
+    font-size: 25px;
+}
+.menyuspan{
+   position: relative;
+   bottom: 3px;
+   left: 6px;
+}
+
+.searchkontakt{
+    margin-top: 25px;
+    position: relative;
+}
+
+.inputcontact{
+    border-radius: 21px;
+    border: 1px solid;
+    position: relative; 
+    width: 400px;
+}
+
+.buttonsearch{
+
+    position: absolute;
+
+    border: none;
+    
+    background-color: white;
+}
+
+.positionsearch{
+    position: relative;
+    bottom: 30px;
+    left: 370px;
+    font-size: 20px
+}
+
+.basket{
+    margin-left: 20px;
+}
+
+.users{
+    margin-top: 23px;
+}
+
+.userd{
+    font-size: 16px;
+}
+
+/* secondnavbar end */
+
+
+
+
+
+/* advert start */
+
+
+.adverts{
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.fifty{
+    color: red;
+}
+
+
+
+.products{
+    display: grid;
+}
+
+/* advert end */
+
+
+
+
+
+
+/* sidebar start */
+
+.listside{
+    list-style: none;
+    margin-top: 10px;
+}
+
+.line{
+    width: 140px;
+    border-bottom: 1px solid #253444;
+    background-color: black;
+    opacity: .1;
+    margin-left: 10px;
+    margin-top: 21px;
+}
+
+.sidebar{
+    border: 2px solid rgba(0,0,0,.08);;
+    width: 270px;
+    height: 900px;
+    padding: 10px;
+    
+   
+}
+
+
+.prodspan{
+  
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 17px;
+font-size: 17px;
+
+
+}
+
+.tech{
+    margin-left: 29px;
+}
+.grid-sidebar-img{
+    width: 700px;
+    height: 300px;
+    display: grid;
+    grid-row: 1/3;
+    margin-left: 20px;
+}
+
+.prodz{
+    display: flex;
+}
+
+.rightbar{
+    display: flex;
+    
+    
+}
+
+.spankonta{
+    margin-left: 22px;
+    font-size: 23px;
+    margin-top: 14px;
+    font-weight: bold;
+    width: 280px;
+    
+}
+
+.kontaktsevindirir{
+    border: 2px solid rgba(0,0,0,.08);
+    margin-left: 30px;
+    width: 250px;
+    height: 550px;
+}
+
+.widright{
+    width: 200px;
+    height: 200px;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+.banners{
+    width: 50px;
+}
+
+
+
+.mainban{
+    display: flex;
+    gap: 230px;
+    margin-left: 20px;
+    border: 2px solid rgba(0,0,0,.08);
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+
+.imagesban{
+    width: 90;
+    margin-top: 30px;
+    
+}
+
+.imgsize{
+    height: 250px;
+    margin-top: 14px;
+}
+
+.door{
+    margin-left: 70px;
+    font-size: 20px;
+}
+
+.doorroot{
+    width: 230px;
+    margin-left: 10px;
+}
+
+.cash{
+    font-size: 13px;
+}
+.resm{
+    margin-left: 10px;
+    
+}
+.cash2{
+
+    font-size: 13px;
+    margin-left: 40px;
+
+}
+
+.git{
+    margin-left: 50px;
+}
+
+.rightdoor{
+    position: relative;
+    right: 50px;
+}
+
+.rightcas{
+    position: relative;
+    right: 40px;
+}
+
+.free{
+    position: relative;
+    right: 13px;
+}
+
+.imgcondi{
+    height: 170px;
+    width: 80px;
+    margin-left: 10px;
+    
+}
+
+.condition{
+    width: 470px;
+    height: 140px;
+}
+
+.carpet{
+    position: relative;
+   bottom: 140px;
+   left: 510px;
+   border: 2px solid rgba(0,0,0,.08);
+
+}
+
+.prac{
+    border: 2px solid rgba(251, 7, 7, 0.08);
+    border-radius: 10px;
+    width: 60px;
+    
+}
+
+.pracsiz{
+    font-size: 14px;
+    padding: 9px;
+    font-weight: 500;
+    color: red;
+}
+
+.blueclasdiv{
+    width: 150px;
+    margin-left: 2px;
+    border: 2px solid rgba(31, 124, 246, 0.08);
+    
+}
+
+.blueclas{
+    color: #4AB7DB;
+    
+}
+
+.bannersblog{
+    position: relative;
+    right: ;
+}
+
+.samsun{
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.samsunmid{
+    margin-left: 10px;
+}
+
+.font2{
+    font-size: 24px;
+    font-weight: bold;
+}
+.signg{
+    font-size: 14px;
+}
+
+.redline{
+    width: 90px;
+    height: 2px;
+    background-color: black;
+    position: relative;
+    bottom: 17px;
+}
+.font23{
+    color: red;
+}
+
+.buybutton{
+    width: 90px;
+    height: 40px;
+    background-color: #7EA82B;
+    position: relative;
+    top: 20px;
+    left: 10px;
+    border-radius: 7px;
+    
+}
+
+.closes{
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    font-weight: bold;
+    position: relative;
+    top: 5px;
+    
+}
+
+.carpetbuy{
+    height: 22px;
+    position: relative;
+    right: 13px;
+    width: 130px;
+}
+
+.frees{
+    position: relative;
+    bottom: 5px;
+    width: 180px;
+}
+.rdd{
+    width: 290px;
+}
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .pic-ctn {
+    width: 100vw;
+    height: 200px;
+  }
+  
+  @keyframes display {
+    0% {
+      transform: translateX(200px);
+      opacity: 0;
+    }
+    10% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+    20% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+    30% {
+      transform: translateX(-200px);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(-200px);
+      opacity: 0;
+    }
+  }
+  
+  .pic-ctn {
+    position: relative;
+    width: 70vw;
+    height: 300px;
+    margin-top: 15vh;
+  }
+  
+  .pic-ctn > img {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 100px);
+    opacity: 0;
+    animation: display 10s infinite;
+  }
+  
+  img:nth-child(2) {
+    animation-delay: 2s;
+  }
+  img:nth-child(3) {
+    animation-delay: 4s;
+  }
+  img:nth-child(4) {
+    animation-delay: 6s;
+  }
+  img:nth-child(5) {
+    animation-delay: 8s;
+  }
+
+  .pic{
+    position: absolute;
+    top: 0;
+    left: calc(50% - 100px);
+    opacity: 0;
+    animation: display 10s infinite;
+    animation-delay: 2s;
+  }
+
+  .owl-item {width: 128.906px; margin-right: 10px;  }
+
+
+  /** to hide dots
+  
+  .owl-theme .owl-dots .owl-dot{ display:none!important;}
+  
+  **/
+
+
+
+  .imad{
+    height: 170px;
+  }
+
+  .newclasphone{
+    width: 80px;
+    height: 270px;
+  }
+
+  .gh{
+    border: 2px solid rgba(0,0,0,.08);;
+  }
