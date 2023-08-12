@@ -59,6 +59,7 @@
 
 
 
+
 /* secondnavbar start */
 
 
@@ -228,7 +229,7 @@ font-size: 17px;
 .kontaktsevindirir{
     border: 2px solid rgba(0,0,0,.08);
     margin-left: 30px;
-    width: 220px;
+    width: 236px;
     height: 550px;
 }
 
@@ -537,10 +538,11 @@ html, body {
 
   .allsee{
     width: 100%;
-    height: 80px;
+    height: 43px;
     background-color: #EDF1F5;
-    position: absolute;
-    margin-top: 30px;
+   
+    position: relative;
+    bottom: 25px;
   
   }
 
@@ -557,6 +559,11 @@ html, body {
     
   }
 
+  .vom{
+    position: relative;
+    bottom: 20px;
+  }
+
   .sizc{
     position: relative;
     bottom: 50px;
@@ -568,19 +575,97 @@ html, body {
     margin-top: 90px;
 
   }
-
+.weekoffer{
+    position: relative;
+    bottom: 120px;
+}
   .weeks{
     font-size: 26px;
     position: relative;
-    top: 50px;
+    top: 39px;
   
   }
 
   .weekonz{
     position: relative;
-    top: 30px;
+    
     right: 22px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 
+  .mat{
+    margin-top: 120px;
+ } 
+
+ .youtubevid{
+    width: 200px;
+    height: 200px;
+    background-color: saddlebrown;
+ }
+
  
+
+.design{
+    position: relative;
+    top: 180px;
+}
+
+.design{
+    margin-top: 110px;
+}
+
+.but{
+    color: black;
+}
+
+
+
+.s{
+    color: black;
+}
+
+.youtuber{
+    width: 1685px;
+    height: 300px;
+    background-color: #253444;
+    position: relative;
+    top:70px;
+}
+
+.s{
+    
+}
+
+
+
+
+
+.ness{
+    position: relative;
+    top: 500px;
+}
+
+.itemds{
+    margin-top: 60px;
+}
+
+.dest{
+    width: 90px;
+    height: 50px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.titles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 20px;
+}
+
+.contacttv{
+    color: white;
+    margin-left: 12px;
+}
